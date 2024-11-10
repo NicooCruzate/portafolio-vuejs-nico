@@ -17,6 +17,7 @@ const redesSociales = [
 const telefono = '+54 9 2604-370278';
 </script>
 
+
 <template>
   <section class="datos-personales">
     <h1 class="nombre">{{ title }}</h1>
